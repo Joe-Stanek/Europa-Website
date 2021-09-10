@@ -1,0 +1,67 @@
+/*to find by class, use a dot "."*/
+@font-face {
+font-family: Font1;
+src: url(SansCondensedFont.ttf)
+}
+
+h1{
+  Font-family:Font1;
+  Font-size:50px
+
+}
+
+h3{
+  font-family:Font1;
+  Font-size: 30px
+}
+
+body{
+
+}
+
+.table{
+  background-color: #90d4cb;
+}
+
+.TablePic{
+  border: solid 5px;
+}
+
+
+
+.text{
+  font-size: 30px;
+  font-family: Font1;
+}
+
+#TopBorder{
+    border: 5px outset;
+
+
+}
+
+#ColOne{
+  background-color: #b1bab3;
+
+}
+
+#ColTwo{
+  border-left: solid 5px;
+  border-right: solid 5px;
+}
+
+#ColThree{
+background-color: #b1bab3;
+
+}
+
+a{
+  text-decoration: none;
+  font-size: 25px;
+  font-family: Font1;
+  color: #431c5d;
+}
+
+ul{
+
+}
